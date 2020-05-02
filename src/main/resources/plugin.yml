@@ -1,0 +1,10 @@
+name: SpawnMultiverse
+main: io.github.matiasilva.spawnmultiverse.SpawnMultiverse
+version: 1.0
+api-version: 1.15
+author: hamlam
+commands:
+  spawn:
+    description: Teleporta o jogador para o Ninja Spawn
+    usage: "Utilize /spawn para voltar para o Ninja Spawn"
+    permission: spawnmultiverse.spawn
